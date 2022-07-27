@@ -23,7 +23,6 @@ Vue.component('example-component', require('./components/ExampleComponent.vue').
 
 Vue.component('new-product-form', require('./components/NewProductForm.vue').default);
 Vue.component('list-product-component', require('./components/ListProductComponent.vue').default);
-Vue.component('update-product-modal-component', require('./components/UpdateProductModalComponent.vue').default);
 
 
 /**
